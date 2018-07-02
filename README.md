@@ -1,4 +1,6 @@
-# Algoritmos y Estructuras de datos Ejercicios
+# Algoritmos y Estructuras de datos
+# Ejercicios
+Guia practica desarrollada por Pablo A. Sznajdleder
 Ej 1:
 Dados dos valores numericos enteros a y b, calcular e informar la suma: a+b, la diferencia: a+b, y el producto: a*b entre dichos valores.
 
