@@ -14,8 +14,11 @@ Dados dos valores numericos enteros a y b calcular e informar el cosiente a/b. C
 Ej 3:
 
 Dado valor numerico entreo que se ingresa por teclado, se pide informar:
+
 .La quinta parte de dicho valor
+
 .El resto de la division por 5
+
 .La septima parte de la quinta parte
 
 Ej 4:
@@ -51,9 +54,13 @@ Dados un mes y el año al que corresponde, informar cuantos dias tiene el mes, c
 Ej 12:
 
 Se ingresa la edad de un socio de un club, se pide mostrar por pantalla alguna de las siguientes leyendas:
+
 ."menor" si la edad es menor o igual a 12
+
 ."cadete" si la edad esta comprendida entre 13 y 18
+
 ."juvenil" si la edad es mayor que 18 y no supera los 26
+
 ."mayor" si no cumnple ninguna de las condiciones anteriores
 
 Ej 13:
@@ -77,11 +84,15 @@ Ej 17:
 En un torneo de futbol participan k equipos. El torneo se juega con el sistema: "todos contra todos, sin revancha". Por cada partido donde participa un equipo se dispone de la siguiente informacion:
 
 .Codigo de equipo(codEq) y
+
 .codigo de resultado("P" = perdido, "E" = empatado, "G" = ganado.
 
 Se dispone de un lote de datos conteniendo todos los resultados del torneo, agrupados por codEq.
+
 1. Desarrollar el programa que imprima, por cada equipo, su codigo y el puntaje total que obtuvo considerando que suma 3 puntos por cada partido ganado y 1 punto por cada partido empatado.
+
 2. Informar, al finalizar el ingreso de datos y sin discriminar por equipo, cuantos partidos resultaron ganados, cuantos resultaron empatados y cuantos resultaron perdidos.
+
 3. Validar la consistencia del lote de datos; esto es: la cantidad de partidos ganados(pg) debe ser igual a la cantidad de partidos perdidos(pp) y cualquiera de estas cantidades sumada a la cantidad de partidos empatados (pe) debe ser igual que k.
 
 Ej 18:
